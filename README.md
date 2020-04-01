@@ -1,5 +1,5 @@
 # mongodb-basics
 
-![MongoDB installation](https://ibb.co/ZNvpH27)
+![MongoDB installation](https://i.ibb.co/x3wtmFd/Screenshot-from-2020-04-01-01-05-33.png)
 
-![MongoDB Database Creation](https://ibb.co/YcP4sgk)
+![MongoDB Database Creation](https://i.ibb.co/wSBZmtW/Screenshot-from-2020-04-01-01-11-54.png)
