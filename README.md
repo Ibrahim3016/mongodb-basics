@@ -4,4 +4,4 @@
 
 ![MongoDB Database Creation](https://i.ibb.co/wSBZmtW/Screenshot-from-2020-04-01-01-11-54.png)
 
-![MongoDB server info](https://i.ibb.co/jwMkBVg/Screenshot-from-2020-04-01-01-35-46.png)
+![Intern Collection Created](https://i.ibb.co/7tmfvJP/Screenshot-from-2020-04-01-04-12-19.png)
